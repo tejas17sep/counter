@@ -1,0 +1,37 @@
+.Name{
+
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.displayCount{
+
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+
+.Btn1{
+background-color: greenyellow;
+position: fixed;
+top: 50%;
+left: 43%;
+width: 80px;
+height: 80px;
+border-radius: 10px;
+
+
+}
+.Btn2{
+
+    background-color: red;
+    position: fixed;
+    top: 50%;
+    left: 53%;
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}
